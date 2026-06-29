@@ -2,7 +2,9 @@
 
 **N M Ziyaf**
 
-Supply Chain Business Analyst
+Supply Chain Business Analyst, 
+
+
 ---
 
 ## Overview
@@ -85,5 +87,8 @@ This document replicates the business analysis artefact I produced during gap an
 ## Author
 
 N M Ziyaf
-Supply Chain Business Analyst, Sydney NSW
+Supply Chain Business Analyst 
+
+Sydney,NSW
+
 linkedin.com/in/ziyafmohamed
