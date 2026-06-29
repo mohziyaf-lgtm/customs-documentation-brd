@@ -1,7 +1,8 @@
 # Customs Documentation Workflow — Gap Analysis BRD
 
-**Portfolio Project — N M Ziyaf**
-Supply Chain Business Analyst, CargoWise One Certified, Six Sigma Black Belt
+**N M Ziyaf**
+
+Supply Chain Business Analyst 
 
 ---
 
@@ -85,5 +86,9 @@ This document replicates the business analysis artefact I produced during gap an
 ## Author
 
 N M Ziyaf
-Supply Chain Business Analyst, Sydney NSW
+
+Supply Chain Business Analyst
+
+Sydney NSW
+
 linkedin.com/in/ziyafmohamed
