@@ -1,7 +1,8 @@
 # Customs Documentation Workflow — Gap Analysis BRD
 
-**Portfolio Project — N M Ziyaf**
-Supply Chain Business Analyst, CargoWise One Certified, Six Sigma Black Belt
+**N M Ziyaf**
+Supply Chain Business Analyst, 
+
 
 ---
 
